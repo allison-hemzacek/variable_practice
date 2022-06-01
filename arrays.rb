@@ -4,5 +4,5 @@ puts months[3]
 
 years = [2020, 1985, 1840, 2007]
 years.pop
-puts years
+years.push (2022)
 p years
